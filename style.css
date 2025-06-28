@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+h3{
+    text-align: center;
+}
+.btn{
+    background-color: rgb(236, 20, 131);
+}
